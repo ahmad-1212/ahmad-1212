@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ahmad-1212/ahmad-1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I'm Ahmad Ali, A frontend developer with a passion for crafting beautiful and intuitive user interfaces. With over [X years/months] of experience in the field, I've worked on a variety of projects ranging from e-commerce websites to complex web applications.
 
 I have a strong foundation in HTML, CSS, JavaScript and React js. I'm always eager to learn new technologies and stay up-to-date with the latest trends in frontend development.
