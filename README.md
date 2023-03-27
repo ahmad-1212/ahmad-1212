@@ -10,9 +10,8 @@ So if you're looking for a frontend developer who can bring your vision to life,
 
 
 <h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p >I am a frontend developer who is passionate about creating beautiful and intuitive user interfaces. I believe that the key to a successful project is understanding the needs of the client and their end-users.</p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
