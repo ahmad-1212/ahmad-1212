@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **ahmadali.swat333@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p >I am a MERN Stack Web developer who is passionate about creating beautiful and intuitive full stack web application. I believe that the key to a successful project is understanding the needs of the client and their end-users.</p>
 
 <p>
