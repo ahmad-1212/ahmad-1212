@@ -11,12 +11,12 @@
 <p align="left">
 </p>
 
-<p >I am a frontend developer who is passionate about creating beautiful and intuitive user interfaces. I believe that the key to a successful project is understanding the needs of the client and their end-users.</p>
+<p >I am a MERN Stack Web developer who is passionate about creating beautiful and intuitive full stack web application. I believe that the key to a successful project is understanding the needs of the client and their end-users.</p>
 
 <p>
-  With a strong foundation in React.js, I am constantly looking to stay up-to-date with the latest technologies and trends in frontend development. But my skills don't stop there - I am also a great collaborator and communicator, always working closely with designers and other developers to ensure a seamless user experience that meets the needs of everyone involved.<br>
+  With a strong foundation in React.js, Nodejs, Mongodb and expres js I am constantly looking to stay up-to-date with the latest technologies and trends in web development. But my skills don't stop there - I am also a great collaborator and communicator, always working closely with designers and other developers to ensure a seamless user experience that meets the needs of everyone involved.<br>
  
-So if you're looking for a frontend developer who can bring your vision to life, let's connect and chat about your project!
+So if you're looking for a MERN Stack Web developer who can bring your vision to life, let's connect and chat about your project!
 </p>
 
 
